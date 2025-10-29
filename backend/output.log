@@ -1,0 +1,118 @@
+[2025-10-19 04:56:47 +0100] [2851987] [INFO] Starting gunicorn 23.0.0
+[2025-10-19 04:56:47 +0100] [2851987] [INFO] Listening at: http://0.0.0.0:8001 (2851987)
+[2025-10-19 04:56:47 +0100] [2851987] [INFO] Using worker: uvicorn.workers.UvicornWorker
+[2025-10-19 04:56:47 +0100] [2851989] [INFO] Booting worker with pid: 2851989
+[2025-10-19 04:56:47 +0100] [2851990] [INFO] Booting worker with pid: 2851990
+[2025-10-19 04:56:47 +0100] [2851991] [INFO] Booting worker with pid: 2851991
+[2025-10-19 04:56:47 +0100] [2851992] [INFO] Booting worker with pid: 2851992
+[2025-10-19 04:56:47 +0100] [2851993] [INFO] Booting worker with pid: 2851993
+[2025-10-19 04:56:47 +0100] [2851994] [INFO] Booting worker with pid: 2851994
+[2025-10-19 04:56:48 +0100] [2851998] [INFO] Booting worker with pid: 2851998
+[2025-10-19 04:56:48 +0100] [2851999] [INFO] Booting worker with pid: 2851999
+[2025-10-19 04:56:48 +0100] [2852000] [INFO] Booting worker with pid: 2852000
+[2025-10-19 04:56:48 +0100] [2852001] [INFO] Booting worker with pid: 2852001
+[2025-10-19 04:56:49 +0100] [2851991] [INFO] Started server process [2851991]
+[2025-10-19 04:56:49 +0100] [2851991] [INFO] Waiting for application startup.
+[2025-10-19 04:56:49 +0100] [2851991] [INFO] Application startup complete.
+[2025-10-19 04:56:49 +0100] [2851992] [INFO] Started server process [2851992]
+[2025-10-19 04:56:49 +0100] [2851992] [INFO] Waiting for application startup.
+[2025-10-19 04:56:49 +0100] [2851992] [INFO] Application startup complete.
+[2025-10-19 04:56:49 +0100] [2851999] [INFO] Started server process [2851999]
+[2025-10-19 04:56:49 +0100] [2851999] [INFO] Waiting for application startup.
+[2025-10-19 04:56:49 +0100] [2851999] [INFO] Application startup complete.
+[2025-10-19 04:56:49 +0100] [2851993] [INFO] Started server process [2851993]
+[2025-10-19 04:56:49 +0100] [2851993] [INFO] Waiting for application startup.
+[2025-10-19 04:56:49 +0100] [2851993] [INFO] Application startup complete.
+[2025-10-19 04:56:49 +0100] [2851998] [INFO] Started server process [2851998]
+[2025-10-19 04:56:49 +0100] [2851998] [INFO] Waiting for application startup.
+[2025-10-19 04:56:49 +0100] [2851998] [INFO] Application startup complete.
+[2025-10-19 04:56:49 +0100] [2851989] [INFO] Started server process [2851989]
+[2025-10-19 04:56:49 +0100] [2851989] [INFO] Waiting for application startup.
+[2025-10-19 04:56:49 +0100] [2851989] [INFO] Application startup complete.
+[2025-10-19 04:56:50 +0100] [2851994] [INFO] Started server process [2851994]
+[2025-10-19 04:56:50 +0100] [2851994] [INFO] Waiting for application startup.
+[2025-10-19 04:56:50 +0100] [2851994] [INFO] Application startup complete.
+[2025-10-19 04:56:50 +0100] [2852000] [INFO] Started server process [2852000]
+[2025-10-19 04:56:50 +0100] [2852000] [INFO] Waiting for application startup.
+[2025-10-19 04:56:50 +0100] [2852000] [INFO] Application startup complete.
+[2025-10-19 04:56:50 +0100] [2851990] [INFO] Started server process [2851990]
+[2025-10-19 04:56:50 +0100] [2851990] [INFO] Waiting for application startup.
+[2025-10-19 04:56:50 +0100] [2851990] [INFO] Application startup complete.
+[2025-10-19 04:56:50 +0100] [2852001] [INFO] Started server process [2852001]
+[2025-10-19 04:56:50 +0100] [2852001] [INFO] Waiting for application startup.
+[2025-10-19 04:56:50 +0100] [2852001] [INFO] Application startup complete.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1760846313.485263 2852000 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760846329.013346 2852000 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1760846374.438346 2852001 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760865553.192022 2852034 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760865562.282182 2852034 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760865565.653196 2852034 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760865572.068257 2852034 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760865572.441974 2852001 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760865583.185209 2852001 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760865627.024325 2852034 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760865635.294821 2852034 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760865638.632350 2852034 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760865645.000857 2852034 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760865645.391848 2852001 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760865652.175186 2852001 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760865706.023030 2852001 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760865727.263278 2852001 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760865781.918491 2852001 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760865794.954298 2852001 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1760865860.373806 2851990 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760865884.357528 2851990 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1760868938.869021 2868020 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760868947.750629 2868020 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760868951.127017 2868020 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760868957.515964 2868020 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760868957.882582 2851994 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760868964.655407 2851994 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760869004.879309 2852001 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760869012.414754 2852001 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760869049.254260 2851990 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760869051.695219 2852001 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760869057.250226 2851990 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760869061.603888 2852001 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760869171.282590 2852001 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760869448.980671 2852034 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760869458.435469 2852034 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760869461.816882 2852034 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760869462.188901 2852001 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760869470.358627 2852001 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760869507.967424 2852001 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760869514.290709 2852001 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760869703.251559 2852034 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760869712.433449 2852034 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760869715.822862 2852034 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760869722.207206 2852034 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760869722.589818 2852001 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760869731.878173 2852001 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760869759.232037 2851990 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760869767.296344 2851990 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760869815.389799 2852001 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760869824.252270 2852001 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760869861.466015 2851990 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760933180.751399 2865304 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760933189.196444 2865304 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760933192.588108 2865304 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760933198.963620 2865304 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760933199.343824 2851990 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760933208.833031 2851990 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760934321.148594 2852001 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760934347.278039 2852001 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760934796.414710 2852000 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760934806.964814 2852000 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1760943666.162079 2851993 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760943693.223565 2851993 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760943729.589954 2851990 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1760945847.376871 2852001 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1761450313.841138 2852034 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1761583439.295412 2868020 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1761583448.358776 2852034 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1761662500.009813 2865304 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
