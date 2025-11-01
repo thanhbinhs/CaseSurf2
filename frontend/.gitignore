@@ -9,7 +9,7 @@
 !.yarn/plugins
 !.yarn/releases
 !.yarn/versions
-
+./casesuf-e6004-firebase-adminsdk-fbsvc-aa7096c017.json
 # testing
 /coverage
 

@@ -1,6 +1,7 @@
 /frontend/node_modules
 /frontend/build
 /frontend/frontend.log
+/frontend/casesuf-e6004-firebase-adminsdk-fbsvc-aa7096c017.json
 
 /backend/env
 /backend/__pycache__
